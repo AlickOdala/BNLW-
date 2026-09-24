@@ -1,0 +1,74 @@
+{
+  "app": {
+    "name": "BNLW Resources Hub",
+    "fullName": "BSc Natural Resources Management (Land & Water)",
+    "university": "LUANAR",
+    "tagline": "Quick access for BNLW alumni - Year 2 to Year 4",
+    "year": "2025 Collection",
+    "description": "Centralized hub for PDFs, PPTs, and notes from Year 2 to Year 4."
+  },
+  "homepage": {
+    "hero": {
+      "title": "BNLW Resources Hub",
+      "subtitle": "Land & Water - LUANAR",
+      "description": "Struggling to find that Soil Physics PPT or GIS manual? We archived everything from Year 2 to Year 4 (2025) in one place. Fast, searchable, and free for alumni.",
+      "ctaPrimary": "Browse Resources",
+      "ctaSecondary": "Contribute Material",
+      "stats": [
+        { "label": "Resources", "value": "300+" },
+        { "label": "Courses", "value": "36" },
+        { "label": "Coverage", "value": "Year 2-4" }
+      ]
+    },
+    "about": {
+      "title": "Why This Hub?",
+      "text": "After graduation, accessing slides becomes hard. This site preserves BNLW knowledge for careers, postgrad, and field work.",
+      "features": [
+        { "title": "Organized by Year", "desc": "Year 2, 3, 4 - Semester wise" },
+        { "title": "PDF & PPT", "desc": "Lecture notes, manuals, past papers" },
+        { "title": "Alumni Built", "desc": "For alumni, by alumni" }
+      ]
+    }
+  },
+  "resourcesPage": {
+    "title": "All Resources",
+    "subtitle": "Year 2 to Year 4 (2025) - Download PDFs and PPTs",
+    "filters": ["All", "Year 2", "Year 3", "Year 4", "PDF", "PPT"],
+    "years": [
+      {
+        "year": "Year 2",
+        "courses": [
+          { "code": "NRM 201", "name": "Soil Science I", "files": ["Soil Physics PPT - 4.2MB", "Texture Notes PDF"] },
+          { "code": "NRM 202", "name": "Fundamentals of Ecology", "files": ["Ecology L1-5 PPT"] },
+          { "code": "NRM 203", "name": "GIS & Remote Sensing I", "files": ["GIS Practical Manual PDF - 8.5MB"] },
+          { "code": "NRM 204", "name": "Climatology & Hydrology", "files": ["Hydro Cycle Notes PDF"] },
+          { "code": "NRM 205", "name": "Land Surveying", "files": ["Surveying Methods PPT"] },
+          { "code": "NRM 206", "name": "Water Resources Management", "files": ["Water Resources PDF"] }
+        ]
+      },
+      {
+        "year": "Year 3",
+        "courses": [
+          { "code": "NRM 301", "name": "Soil & Water Conservation", "files": ["Conservation Structures PDF", "Past Paper 2024"] },
+          { "code": "NRM 302", "name": "Irrigation Engineering", "files": ["Drip & Sprinkler PPT - 7.2MB"] },
+          { "code": "NRM 303", "name": "Watershed Management", "files": ["Watershed Planning Manual PDF"] },
+          { "code": "NRM 304", "name": "Land Evaluation & Use Planning", "files": ["Land Evaluation Notes PDF"] },
+          { "code": "NRM 305", "name": "EIA", "files": ["EIA Full Notes PDF"] },
+          { "code": "NRM 306", "name": "Research Methods", "files": ["Proposal Guide PDF"] }
+        ]
+      },
+      {
+        "year": "Year 4",
+        "courses": [
+          { "code": "NRM 401", "name": "Integrated Water Resources Management", "files": ["IWRM Slides PPT - 9.1MB"] },
+          { "code": "NRM 402", "name": "Land Reclamation & Restoration", "files": ["Restoration Ecology PDF"] },
+          { "code": "NRM 403", "name": "Project Planning & Management", "files": ["Project Framework PDF"] },
+          { "code": "NRM 404", "name": "Final Year Project", "files": ["Thesis Guide 2025", "Sample Projects PDF"] }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "text": "© 2025 BNLW Hub | LUANAR | For educational use only"
+  }
+}
